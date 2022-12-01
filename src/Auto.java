@@ -4,6 +4,6 @@ public class Auto {
     String agress;
     String salon;
     public static void Fastest(){
-        System.out.println("It was a mersedes");
+        System.out.println("It's Mersedes");
     }
 }

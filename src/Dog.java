@@ -5,6 +5,6 @@ public class Dog {
     String agress;
     String brain;
     public static void Agressive(){
-        System.out.println("It's me dog");
+        System.out.println("It's dog, and it's pet");
     }
 }

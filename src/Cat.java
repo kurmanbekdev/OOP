@@ -4,6 +4,6 @@ public class Cat {
     String agress;
     String brain;
     public static void Running(){
-        System.out.println("You are true");
+        System.out.println("You are true, it's a cat");
     }
 }
